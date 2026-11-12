@@ -1,0 +1,173 @@
+{
+  "%1 connections": {
+    "%1 connections": "%1 個連線"
+  },
+  "%1 groups": {
+    "%1 groups": "%1 個代理群組"
+  },
+  "%1 ms": {
+    "%1 ms": "%1 毫秒"
+  },
+  "%1 nodes": {
+    "%1 nodes": "%1 個節點"
+  },
+  "API address override": {
+    "API address override": "API 位址覆寫"
+  },
+  "API secret override": {
+    "API secret override": "API 金鑰覆寫"
+  },
+  "Back": {
+    "Back": "返回"
+  },
+  "Bar proxy group": {
+    "Bar proxy group": "狀態列代理群組"
+  },
+  "Cannot load proxy groups": {
+    "Cannot load proxy groups": "無法載入代理群組"
+  },
+  "Cannot reach the mihomo API": {
+    "Cannot reach the mihomo API": "無法連線到 mihomo API"
+  },
+  "Cannot read the config file": {
+    "Cannot read the config file": "無法讀取設定檔"
+  },
+  "Choose which proxy groups appear in the popout.": {
+    "Choose which proxy groups appear in the popout.": "選擇彈出視窗中要顯示哪些代理群組。"
+  },
+  "Clear selection": {
+    "Clear selection": "清除選取"
+  },
+  "Config file": {
+    "Config file": "設定檔"
+  },
+  "Config file is empty": {
+    "Config file is empty": "設定檔為空"
+  },
+  "Direct": {
+    "Direct": "直連"
+  },
+  "Display current upload and download speed next to the icon.": {
+    "Display current upload and download speed next to the icon.": "在圖示旁顯示目前的上傳與下載速度。"
+  },
+  "Display the active node name of the selected proxy group.": {
+    "Display the active node name of the selected proxy group.": "顯示所選代理群組目前使用的節點名稱。"
+  },
+  "Global": {
+    "Global": "全域"
+  },
+  "Group shown in the bar. Leave empty to use the first visible Selector group. Example: Final": {
+    "Group shown in the bar. Leave empty to use the first visible Selector group. Example: Final": "狀態列顯示的代理群組。留空則使用第一個可見的 Selector 群組，例如 Final。"
+  },
+  "Group visibility": {
+    "Group visibility": "代理群組顯示"
+  },
+  "Hide selected groups": {
+    "Hide selected groups": "隱藏選取的代理群組"
+  },
+  "Hide the leading icon": {
+    "Hide the leading icon": "隱藏前置圖示"
+  },
+  "How often the bar updates traffic and proxy state.": {
+    "How often the bar updates traffic and proxy state.": "狀態列更新流量與代理狀態的頻率。"
+  },
+  "Icon size": {
+    "Icon size": "圖示大小"
+  },
+  "Latency test URL": {
+    "Latency test URL": "延遲測試位址"
+  },
+  "Leave empty to use external-controller from the config. Example: 127.0.0.1:9090": {
+    "Leave empty to use external-controller from the config. Example: 127.0.0.1:9090": "留空則使用設定檔中的 external-controller，例如 127.0.0.1:9090。"
+  },
+  "Leave empty to use the secret from the config file.": {
+    "Leave empty to use the secret from the config file.": "留空則使用設定檔中的 secret。"
+  },
+  "Loading groups…": {
+    "Loading groups…": "正在載入代理群組…"
+  },
+  "Mihomo API error %1": {
+    "Mihomo API error %1": "mihomo API 錯誤 %1"
+  },
+  "Mihomo Indicator": {
+    "Mihomo Indicator": "Mihomo 指示器"
+  },
+  "Missing curl": {
+    "Missing curl": "缺少 curl"
+  },
+  "No proxy groups match the filter": {
+    "No proxy groups match the filter": "沒有符合篩選條件的代理群組"
+  },
+  "None": {
+    "None": "無"
+  },
+  "Not connected": {
+    "Not connected": "未連線"
+  },
+  "Pick the groups to hide, or the only groups to show, depending on the mode above.": {
+    "Pick the groups to hide, or the only groups to show, depending on the mode above.": "依上方模式，選擇要隱藏的代理群組，或只保留要顯示的代理群組。"
+  },
+  "Proxy groups": {
+    "Proxy groups": "代理群組"
+  },
+  "Refresh": {
+    "Refresh": "重新整理"
+  },
+  "Refresh groups": {
+    "Refresh groups": "重新整理代理群組"
+  },
+  "Refresh interval": {
+    "Refresh interval": "重新整理間隔"
+  },
+  "Rule": {
+    "Rule": "規則"
+  },
+  "Scale the status icon relative to the bar's default icon size.": {
+    "Scale the status icon relative to the bar's default icon size.": "相對於狀態列預設圖示大小縮放狀態圖示。"
+  },
+  "Select groups": {
+    "Select groups": "選取代理群組"
+  },
+  "Show all groups": {
+    "Show all groups": "顯示全部代理群組"
+  },
+  "Show only selected groups": {
+    "Show only selected groups": "只顯示選取的代理群組"
+  },
+  "Show only the traffic rates in the bar.": {
+    "Show only the traffic rates in the bar.": "狀態列只顯示流量速度。"
+  },
+  "Show selected proxy in the bar": {
+    "Show selected proxy in the bar": "在狀態列顯示目前節點"
+  },
+  "Show traffic in the bar": {
+    "Show traffic in the bar": "在狀態列顯示流量"
+  },
+  "TUN": {
+    "TUN": "TUN"
+  },
+  "Test latency": {
+    "Test latency": "測試延遲"
+  },
+  "The API secret was rejected": {
+    "The API secret was rejected": "API 金鑰遭到拒絕"
+  },
+  "This plugin talks to the mihomo API through curl.\n\nInstall curl, make sure it is on PATH, then enable the plugin again.": {
+    "This plugin talks to the mihomo API through curl.\n\nInstall curl, make sure it is on PATH, then enable the plugin again.": "本外掛透過 curl 存取 mihomo API。\n\n請安裝 curl，確認它在 PATH 上，然後重新啟用外掛。"
+  },
+  "Timeout": {
+    "Timeout": "逾時"
+  },
+  "URL used by the latency test button.": {
+    "URL used by the latency test button.": "延遲測試按鈕使用的網址。"
+  },
+  "Unknown": {
+    "Unknown": "未知"
+  },
+  "external-controller not found in config": {
+    "external-controller not found in config": "設定檔中沒有 external-controller"
+  },
+  "mihomo reads external-controller and secret from this file. It must be readable by your user.": {
+    "mihomo reads external-controller and secret from this file. It must be readable by your user.": "從此檔案讀取 external-controller 和 secret，需要目前使用者有讀取權限。"
+  }
+}

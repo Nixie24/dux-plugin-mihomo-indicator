@@ -99,9 +99,11 @@ source string. Translations live in `translations/<locale>.json` in the plugin f
 }
 ```
 
-The directory currently ships `zh_CN.json`. Add another locale file (for example `de.json`)
-to translate the plugin; DMS picks it up from the system locale automatically. There is no
-`en.json` — untranslated terms fall back to the literal English text.
+The directory ships `zh_CN.json`, `zh_TW.json` and `en_US.json`. Add another locale file (for
+example `de.json`) to translate the plugin; DMS picks it up from the system locale
+automatically. The English term is already the source string, so `en_US.json` is only a
+pinned copy of it — it changes nothing unless a term also exists in the global DMS catalog
+with different wording.
 
 ## License
 

@@ -1,0 +1,173 @@
+{
+  "%1 connections": {
+    "%1 connections": "%1 connections"
+  },
+  "%1 groups": {
+    "%1 groups": "%1 groups"
+  },
+  "%1 ms": {
+    "%1 ms": "%1 ms"
+  },
+  "%1 nodes": {
+    "%1 nodes": "%1 nodes"
+  },
+  "API address override": {
+    "API address override": "API address override"
+  },
+  "API secret override": {
+    "API secret override": "API secret override"
+  },
+  "Back": {
+    "Back": "Back"
+  },
+  "Bar proxy group": {
+    "Bar proxy group": "Bar proxy group"
+  },
+  "Cannot load proxy groups": {
+    "Cannot load proxy groups": "Cannot load proxy groups"
+  },
+  "Cannot reach the mihomo API": {
+    "Cannot reach the mihomo API": "Cannot reach the mihomo API"
+  },
+  "Cannot read the config file": {
+    "Cannot read the config file": "Cannot read the config file"
+  },
+  "Choose which proxy groups appear in the popout.": {
+    "Choose which proxy groups appear in the popout.": "Choose which proxy groups appear in the popout."
+  },
+  "Clear selection": {
+    "Clear selection": "Clear selection"
+  },
+  "Config file": {
+    "Config file": "Config file"
+  },
+  "Config file is empty": {
+    "Config file is empty": "Config file is empty"
+  },
+  "Direct": {
+    "Direct": "Direct"
+  },
+  "Display current upload and download speed next to the icon.": {
+    "Display current upload and download speed next to the icon.": "Display current upload and download speed next to the icon."
+  },
+  "Display the active node name of the selected proxy group.": {
+    "Display the active node name of the selected proxy group.": "Display the active node name of the selected proxy group."
+  },
+  "Global": {
+    "Global": "Global"
+  },
+  "Group shown in the bar. Leave empty to use the first visible Selector group. Example: Final": {
+    "Group shown in the bar. Leave empty to use the first visible Selector group. Example: Final": "Group shown in the bar. Leave empty to use the first visible Selector group. Example: Final"
+  },
+  "Group visibility": {
+    "Group visibility": "Group visibility"
+  },
+  "Hide selected groups": {
+    "Hide selected groups": "Hide selected groups"
+  },
+  "Hide the leading icon": {
+    "Hide the leading icon": "Hide the leading icon"
+  },
+  "How often the bar updates traffic and proxy state.": {
+    "How often the bar updates traffic and proxy state.": "How often the bar updates traffic and proxy state."
+  },
+  "Icon size": {
+    "Icon size": "Icon size"
+  },
+  "Latency test URL": {
+    "Latency test URL": "Latency test URL"
+  },
+  "Leave empty to use external-controller from the config. Example: 127.0.0.1:9090": {
+    "Leave empty to use external-controller from the config. Example: 127.0.0.1:9090": "Leave empty to use external-controller from the config. Example: 127.0.0.1:9090"
+  },
+  "Leave empty to use the secret from the config file.": {
+    "Leave empty to use the secret from the config file.": "Leave empty to use the secret from the config file."
+  },
+  "Loading groups…": {
+    "Loading groups…": "Loading groups…"
+  },
+  "Mihomo API error %1": {
+    "Mihomo API error %1": "Mihomo API error %1"
+  },
+  "Mihomo Indicator": {
+    "Mihomo Indicator": "Mihomo Indicator"
+  },
+  "Missing curl": {
+    "Missing curl": "Missing curl"
+  },
+  "No proxy groups match the filter": {
+    "No proxy groups match the filter": "No proxy groups match the filter"
+  },
+  "None": {
+    "None": "None"
+  },
+  "Not connected": {
+    "Not connected": "Not connected"
+  },
+  "Pick the groups to hide, or the only groups to show, depending on the mode above.": {
+    "Pick the groups to hide, or the only groups to show, depending on the mode above.": "Pick the groups to hide, or the only groups to show, depending on the mode above."
+  },
+  "Proxy groups": {
+    "Proxy groups": "Proxy groups"
+  },
+  "Refresh": {
+    "Refresh": "Refresh"
+  },
+  "Refresh groups": {
+    "Refresh groups": "Refresh groups"
+  },
+  "Refresh interval": {
+    "Refresh interval": "Refresh interval"
+  },
+  "Rule": {
+    "Rule": "Rule"
+  },
+  "Scale the status icon relative to the bar's default icon size.": {
+    "Scale the status icon relative to the bar's default icon size.": "Scale the status icon relative to the bar's default icon size."
+  },
+  "Select groups": {
+    "Select groups": "Select groups"
+  },
+  "Show all groups": {
+    "Show all groups": "Show all groups"
+  },
+  "Show only selected groups": {
+    "Show only selected groups": "Show only selected groups"
+  },
+  "Show only the traffic rates in the bar.": {
+    "Show only the traffic rates in the bar.": "Show only the traffic rates in the bar."
+  },
+  "Show selected proxy in the bar": {
+    "Show selected proxy in the bar": "Show selected proxy in the bar"
+  },
+  "Show traffic in the bar": {
+    "Show traffic in the bar": "Show traffic in the bar"
+  },
+  "TUN": {
+    "TUN": "TUN"
+  },
+  "Test latency": {
+    "Test latency": "Test latency"
+  },
+  "The API secret was rejected": {
+    "The API secret was rejected": "The API secret was rejected"
+  },
+  "This plugin talks to the mihomo API through curl.\n\nInstall curl, make sure it is on PATH, then enable the plugin again.": {
+    "This plugin talks to the mihomo API through curl.\n\nInstall curl, make sure it is on PATH, then enable the plugin again.": "This plugin talks to the mihomo API through curl.\n\nInstall curl, make sure it is on PATH, then enable the plugin again."
+  },
+  "Timeout": {
+    "Timeout": "Timeout"
+  },
+  "URL used by the latency test button.": {
+    "URL used by the latency test button.": "URL used by the latency test button."
+  },
+  "Unknown": {
+    "Unknown": "Unknown"
+  },
+  "external-controller not found in config": {
+    "external-controller not found in config": "external-controller not found in config"
+  },
+  "mihomo reads external-controller and secret from this file. It must be readable by your user.": {
+    "mihomo reads external-controller and secret from this file. It must be readable by your user.": "mihomo reads external-controller and secret from this file. It must be readable by your user."
+  }
+}
